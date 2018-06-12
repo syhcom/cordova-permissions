@@ -5,7 +5,7 @@
     <name>cordova-permissions</name>
     <description>Read system permissions for app during runtime</description>
     <js-module name="CordovaPermissions" src="www/cordova-permissions.js">
-        <clobbers target="cordova.plugins.permissions" />
+        <clobbers target="cordova.plugins.appPermissions" />
     </js-module>
     <platform name="ios">
         <config-file parent="/*" target="config.xml">

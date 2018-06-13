@@ -1,0 +1,19 @@
+{
+  "name": "org.marmorkuchen.permissions",
+  "version": "0.0.1",
+  "description": "Read system permissions for app during runtime",
+  "cordova": {
+    "id": "org.marmorkuchen.permissions",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
